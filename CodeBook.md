@@ -1,6 +1,6 @@
 ## Identifiers
 
-Subject : number represent the volunteer
+Subject : number represent the volunteer \n
 Label : the activity the volunteer participated in
 
 ## Measurements:
