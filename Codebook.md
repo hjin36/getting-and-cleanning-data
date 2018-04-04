@@ -42,4 +42,4 @@ meanFreq(): Weighted average of the frequency components to obtain a mean freque
 skewness(): skewness of the frequency domain signal 
 kurtosis(): kurtosis of the frequency domain signal 
 bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
-angle(): Angle between to vectors.
+angle(): Angle between to vectors
