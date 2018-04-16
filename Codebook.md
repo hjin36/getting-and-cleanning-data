@@ -26,7 +26,9 @@ tBodyAccMean
 tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
+
 mean(): Mean value
+
 std(): Standard deviation
 mad(): Median absolute deviation 
 max(): Largest value in array
